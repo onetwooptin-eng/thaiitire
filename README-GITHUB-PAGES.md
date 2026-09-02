@@ -6,7 +6,7 @@ This folder is ready to publish from the root of a GitHub repository.
 
 1. Upload every file and folder here to the repository root.
 2. In **Settings → Pages**, choose **Deploy from a branch**, `main`, and `/ (root)`.
-3. In GitHub Pages, set the custom domain to `thaitbrtyres.com` and enable HTTPS after DNS is active.
+3. In GitHub Pages, set the custom domain to `thaiitire.com` and enable HTTPS after DNS is active.
 
 The included `CNAME` and `.nojekyll` files are required. Clean URLs use folders with `index.html`, so Apache, PHP, and `.htaccess` are not needed.
 

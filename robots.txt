@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /thank-you/
-Sitemap: https://thaitbrtyres.com/sitemap.xml
+Sitemap: https://thaiitire.com/sitemap.xml
